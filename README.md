@@ -10,3 +10,5 @@ Additional text for difftool
 Adding text for new branch
 
 I hope this is not a problem 
+
+This is a test for stashing 
