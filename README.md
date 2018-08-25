@@ -8,3 +8,5 @@ This is a simple readme file
 Additional text for difftool
 
 Adding text for new branch
+
+I hope this is not a problem 
